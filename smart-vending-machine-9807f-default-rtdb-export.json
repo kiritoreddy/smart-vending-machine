@@ -1,0 +1,34 @@
+{
+  "vending_machine_1" : {
+    "item1" : {
+      "price" : 40,
+      "productName" : "Pepsi",
+      "quantity" : 25,
+      "tag" : 0,
+      "url" : "https://firebasestorage.googleapis.com/v0/b/smart-vending-machine-9807f.appspot.com/o/images%2Fpepsi-bottle.jpg?alt=media&token=2b5d781b-165c-4fb4-be54-d1569c3a44f3"
+    },
+    "item2" : {
+      "price" : 40,
+      "productName" : "fanta",
+      "quantity" : 20,
+      "tag" : 0,
+      "url" : "https://firebasestorage.googleapis.com/v0/b/smart-vending-machine-9807f.appspot.com/o/images%2Ffanta.jpg?alt=media&token=e09ec0ec-fde2-43e3-a60a-4cf90e4fb822"
+    }
+  },
+  "vending_machine_2" : {
+    "item1" : {
+      "price" : 40,
+      "productName" : "sprite",
+      "quantity" : 30,
+      "tag" : 0,
+      "url" : "https://firebasestorage.googleapis.com/v0/b/smart-vending-machine-9807f.appspot.com/o/images%2Fsprite.jpg?alt=media&token=8f56dd87-1eda-4a34-ae48-672419829315"
+    },
+    "item2" : {
+      "price" : 40,
+      "productName" : "maaza",
+      "quantity" : 20,
+      "tag" : 0,
+      "url" : "https://firebasestorage.googleapis.com/v0/b/smart-vending-machine-9807f.appspot.com/o/images%2Fmaaza.jpg?alt=media&token=d4c5ccbf-2bf7-4f30-bae9-9de62f6fc9bb"
+    }
+  }
+}
